@@ -185,5 +185,7 @@ Output:
 
 ### Undeploy
 ```sh
-sls remove -v
+serverless remove -v
 ```
+
+I hope this enables you to make PureScript web applications!
